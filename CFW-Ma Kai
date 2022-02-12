@@ -6,7 +6,7 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=🎮 雀魂日服,https://github.com/liuzhaolong1999/CFW-lzhl/blob/main/Mahjong%20Soul-JP.list
+ruleset=🎮 雀魂日服,https://raw.githubusercontent.com/liuzhaolong1999/CFW-lzhl/main/Mahjong%20Soul-JP.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🇧🇹 BT&迅雷,https://raw.githubusercontent.com/liuzhaolong1999/CFW-lzhl/main/download.list
