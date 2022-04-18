@@ -78,6 +78,6 @@ DOMAIN-SUFFIX,jellyfin.xeton.dev
 DOMAIN-SUFFIX,emby.xeton.dev
 DOMAIN-SUFFIX,emby.cjpc.cc
 DOMAIN-SUFFIX,cristiamo.xyz
-IP-CIDR,161.97.148.156/24
-IP-CIDR,198.204.247.154/24
+IP-CIDR,161.97.148.156/24,no-resolve
+IP-CIDR,198.204.247.154/24,no-resolve
 DOMAIN-SUFFIX,hz.cristiamo.xyz
